@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Rehkitzrettung Hütten-Bubenorbis e.V.</title>
+    <link href="https://rehkitz-rettung.github.io.git/feed.xml" rel="self" />
+    <link href="https://rehkitz-rettung.github.io.git" />
+    <updated>2024-03-30T00:49:33+01:00</updated>
+    <author>
+        <name>Kevin Bittner</name>
+    </author>
+    <id>https://rehkitz-rettung.github.io.git</id>
+
+    <entry>
+        <title>Das Reh</title>
+        <author>
+            <name>Kevin Bittner</name>
+        </author>
+        <link href="https://rehkitz-rettung.github.io.git/hello/"/>
+        <id>https://rehkitz-rettung.github.io.git/hello/</id>
+
+        <updated>2024-03-14T21:52:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Allgemeine Informationen Rehe sind elegante und anmutige Tiere, die in Wäldern und offenen Landschaften beheimatet sind. Sie sind bekannt für ihre schlanken Körper,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Allgemeine Informationen</h2>
+<p><span id="wpaicg-chat-message-26818" class="wpaicg-chat-message">Rehe sind elegante und anmutige Tiere, die in Wäldern und offenen Landschaften beheimatet sind. Sie sind bekannt für ihre schlanken Körper, ihr braunes Fell und ihre charakteristischen Geweihe, die bei den Männchen jedes Jahr neu wachsen.</span></p>
+<p><span id="wpaicg-chat-message-26818" class="wpaicg-chat-message">Rehe sind Pflanzenfresser und ernähren sich hauptsächlich von Gräsern, Blättern, Knospen und Rinde. Sie sind scheue Tiere und verbringen die meiste Zeit des Tages damit, nach Nahrung zu suchen und sich vor Raubtieren zu schützen. Rehe sind auch für ihr ausgeprägtes Sozialverhalten bekannt, da sie oft in Gruppen leben und sich gegenseitig vor Gefahren warnen.</span></p>
+<p><span id="wpaicg-chat-message-26818" class="wpaicg-chat-message">Insgesamt sind Rehe faszinierende Tiere, die einen wichtigen Teil des Ökosystems ausmachen.</span></p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/1bOFrrZSOWA?si=dGL-m5rckZO0cWSO" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h2>Rehkitze brauchen unsere Hilfe</h2>
+<p><span id="wpaicg-chat-message-80218" class="wpaicg-chat-message">Eine der größten Gefahren für Rehkitze ist die moderne Landwirtschaft, die ihre Lebensräume zerstört und sie anfällig für Raubtiere macht. Beim Mähen von Wiesen werden oft Rehkitze übersehen und getötet, da sie sich instinktiv flach auf den Boden legen, um sich zu verstecken. Dies hat zu einem Rückgang der Rehpopulationen in einigen Gebieten geführt und zeigt die Notwendigkeit von Maßnahmen zum Schutz dieser faszinierenden Tiere auf.</span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
