@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Rehkitzrettung Hütten-Bubenorbis e.V.</title>
-    <link href="https://rehkitz-rettung.github.io.git/feed.xml" rel="self" />
-    <link href="https://rehkitz-rettung.github.io.git" />
+    <link href="https://rehkitz-rettung.github.io/feed.xml" rel="self" />
+    <link href="https://rehkitz-rettung.github.io" />
     <updated>2024-03-30T00:49:33+01:00</updated>
     <author>
         <name>Kevin Bittner</name>
     </author>
-    <id>https://rehkitz-rettung.github.io.git</id>
+    <id>https://rehkitz-rettung.github.io</id>
 
     <entry>
         <title>Das Reh</title>
         <author>
             <name>Kevin Bittner</name>
         </author>
-        <link href="https://rehkitz-rettung.github.io.git/hello/"/>
-        <id>https://rehkitz-rettung.github.io.git/hello/</id>
+        <link href="https://rehkitz-rettung.github.io/hello/"/>
+        <id>https://rehkitz-rettung.github.io/hello/</id>
 
         <updated>2024-03-14T21:52:18+01:00</updated>
             <summary>
